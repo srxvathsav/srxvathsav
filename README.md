@@ -10,7 +10,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="srxvathsav" height="30" width="40" /></a>
     <a href="https://portfolio-d3b7b.web.app/" target="blank"><img align="center"
-            src="https://w7.pngwing.com/pngs/267/531/png-transparent-portfolio-briefcase-showcase-business-adobe-portfolio-adobe-family-software-icon-thumbnail.png"
+            src="raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/myspace-alt.svg"
             alt="srxvathsav" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/srxvathsav" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
