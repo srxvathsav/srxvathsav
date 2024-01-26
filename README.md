@@ -9,9 +9,6 @@
     <a href="https://instagram.com/srxvathsav" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="srxvathsav" height="30" width="40" /></a>
-    <a href="https://portfolio-d3b7b.web.app/" target="blank"><img align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
-            alt="https://portfolio-d3b7b.web.app/" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/srxvathsav" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="srxvathsav" height="30" width="40" /></a>
